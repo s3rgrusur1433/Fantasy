@@ -1,0 +1,218 @@
+[
+  {
+    "id": "p1",
+    "name": "Lamine Yamal",
+    "position": "DEL",
+    "club": "Barcelona",
+    "price": 35,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Lamine+Yamal"
+  },
+  {
+    "id": "p2",
+    "name": "Kylian Mbappé",
+    "position": "DEL",
+    "club": "Real Madrid",
+    "price": 40,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Mbappe"
+  },
+  {
+    "id": "p3",
+    "name": "Vinícius Jr.",
+    "position": "DEL",
+    "club": "Real Madrid",
+    "price": 38,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Vinicius"
+  },
+  {
+    "id": "p4",
+    "name": "Robert Lewandowski",
+    "position": "DEL",
+    "club": "Barcelona",
+    "price": 30,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Lewandowski"
+  },
+  {
+    "id": "p5",
+    "name": "Raphinha",
+    "position": "DEL",
+    "club": "Barcelona",
+    "price": 31,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Raphinha"
+  },
+  {
+    "id": "p6",
+    "name": "Rodrygo",
+    "position": "DEL",
+    "club": "Real Madrid",
+    "price": 28,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Rodrygo"
+  },
+  {
+    "id": "p7",
+    "name": "Nico Williams",
+    "position": "DEL",
+    "club": "Athletic Club",
+    "price": 27,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Nico+Williams"
+  },
+  {
+    "id": "p8",
+    "name": "Pedri",
+    "position": "MED",
+    "club": "Barcelona",
+    "price": 25,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Pedri"
+  },
+  {
+    "id": "p9",
+    "name": "Fede Valverde",
+    "position": "MED",
+    "club": "Real Madrid",
+    "price": 24,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Valverde"
+  },
+  {
+    "id": "p10",
+    "name": "Jude Bellingham",
+    "position": "MED",
+    "club": "Real Madrid",
+    "price": 32,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Bellingham"
+  },
+  {
+    "id": "p11",
+    "name": "Dani Olmo",
+    "position": "MED",
+    "club": "Barcelona",
+    "price": 23,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Olmo"
+  },
+  {
+    "id": "p12",
+    "name": "Take Kubo",
+    "position": "MED",
+    "club": "Real Sociedad",
+    "price": 22,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Kubo"
+  },
+  {
+    "id": "p13",
+    "name": "Antoine Griezmann",
+    "position": "DEL",
+    "club": "Atlético de Madrid",
+    "price": 29,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Griezmann"
+  },
+  {
+    "id": "p14",
+    "name": "Julián Álvarez",
+    "position": "DEL",
+    "club": "Atlético de Madrid",
+    "price": 34,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Julian+Alvarez"
+  },
+  {
+    "id": "p15",
+    "name": "Álex Baena",
+    "position": "MED",
+    "club": "Villarreal",
+    "price": 20,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Baena"
+  },
+  {
+    "id": "p16",
+    "name": "Dani Vivian",
+    "position": "DEF",
+    "club": "Athletic Club",
+    "price": 14,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Vivian"
+  },
+  {
+    "id": "p17",
+    "name": "Robin Le Normand",
+    "position": "DEF",
+    "club": "Atlético de Madrid",
+    "price": 16,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Le+Normand"
+  },
+  {
+    "id": "p18",
+    "name": "Antonio Rüdiger",
+    "position": "DEF",
+    "club": "Real Madrid",
+    "price": 17,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Rudiger"
+  },
+  {
+    "id": "p19",
+    "name": "Pau Cubarsí",
+    "position": "DEF",
+    "club": "Barcelona",
+    "price": 18,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Cubarsi"
+  },
+  {
+    "id": "p20",
+    "name": "Unai Simón",
+    "position": "POR",
+    "club": "Athletic Club",
+    "price": 13,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Unai+Simon"
+  },
+  {
+    "id": "p21",
+    "name": "Thibaut Courtois",
+    "position": "POR",
+    "club": "Real Madrid",
+    "price": 18,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Courtois"
+  },
+  {
+    "id": "p22",
+    "name": "Jan Oblak",
+    "position": "POR",
+    "club": "Atlético de Madrid",
+    "price": 18,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Oblak"
+  },
+  {
+    "id": "p23",
+    "name": "Marc-André ter Stegen",
+    "position": "POR",
+    "club": "Barcelona",
+    "price": 17,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Ter+Stegen"
+  },
+  {
+    "id": "p24",
+    "name": "Isco",
+    "position": "MED",
+    "club": "Real Betis",
+    "price": 21,
+    "points": 0,
+    "photo": "https://placehold.co/600x700/102a43/fff?text=Isco"
+  }
+]
